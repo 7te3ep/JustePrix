@@ -10,7 +10,7 @@ laoding = ["laoding...","laoding..","laoding."]
 
 # process
 
-for test in range(1000000):
+for test in range(1000):
     numberToFind = randint(1,99)
     testNumber = 50
     LowLimit = 1
